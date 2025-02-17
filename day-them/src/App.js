@@ -12,7 +12,7 @@ export default function App() {
         <option value="male">male</option>
         <option value="other">other</option>
       </select>
-      <input type="submit" />
+      <input type="đăng ký" />
     </form>
   );
 }
